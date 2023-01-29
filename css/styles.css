@@ -20,7 +20,7 @@
 
 /* title */
 #title{
-  background-color:  #fd4854;
+  background-color:  #fc5460;
   color: #fff;
 }
 
@@ -59,7 +59,7 @@ h1{
 
 }
 .icon{
-  color:  #fd4854;
+  color:  #fc5460;
   width: 55%;
 }
 .icon:hover{
@@ -72,7 +72,7 @@ h1{
 #testimonials{
 
   text-align: center;
-  background-color:  #fd4854;
+  background-color:  #fc5460;
   color: #fff;
 }
 .testimonial-image{
@@ -85,7 +85,7 @@ h1{
 }
 /* press */
 #press{
-  background-color: #fd4854;
+  background-color: #fc5460;
   text-align: center;
   padding: 20px;
 }
@@ -105,7 +105,7 @@ h1{
 
 /* CTA */
 #cta{
-  background-color:  #fd4854;
+  background-color:  #5f060b;
   padding:7% 15%;
   color:#fff;
   text-align:center;
